@@ -4,7 +4,13 @@
 1) Публичный репозиторий с именем = твоему нику
 2) README.md — в корень, папку assets/ — тоже в корень
 3) Замени {user} на ник
-4) Змея: см. инструкцию внизу
+4) Файлы не грузятся? Проверь:
+
+- ветка реально называется main (если master — замени /main/ на /master/ в ссылках)
+- репозиторий называется ТОЧНО как ник, включая регистр
+- assets/ лежит в КОРНЕ репозитория, рядом с README.md
+- после пуша подожди 1–2 минуты (CDN-кэш raw.githubusercontent)
+5) Змея: см. инструкцию внизу
 ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -19,10 +25,7 @@
 
 <br/>
 
-```javascript
-      панельки уходят в темноту.
-   а я остаюсь. коммичу.
-```
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/manifesto.png" width="100%" alt="панельки уходят в темноту"/>
 
 </div>
 
@@ -40,15 +43,17 @@
 
 &nbsp;
 
-- 🌃 **кто:** {кто ты / чем занимаешься}
-- 🕯 **стек:** {основной стек}
+- 🌃 **кто:** бэкенд-разработчик
+- 🕯 **стек:** Go · Python · C++
+- ✉️ **почта:** [pakhomov.vs@yandex.ru](mailto:pakhomov.vs@yandex.ru) · [pakhomov.vse@gmail.com](mailto:pakhomov.vse@gmail.com)
+- ✈️ **тг:** [@worltroll](https://t.me/worltroll)
 - 🌧 **сейчас:** {что изучаешь / над чем работаешь}
 - 📍 **место:** {город / часовой пояс}
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/girl.png" width="230" alt=""/>
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/girl.png" width="240" alt=""/>
 
 <sub>— тишина на девятом этаже —</sub>
 
@@ -56,24 +61,17 @@
 </tr>
 </table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/panel.png" width="100%" alt=""/>
-</div>
-
----
-
-### 🛠 Инструменты
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/strip-stack.png" width="100%" alt="/stack"/>
 
 <p align="left">
-<img src="https://img.shields.io/badge/-{Lang}-0d0d12?style=flat-square&logo={lang}&logoColor=8B7FB8&labelColor=1a1025"/>
-<img src="https://img.shields.io/badge/-{Framework}-0d0d12?style=flat-square&logo={framework}&logoColor=8B7FB8&labelColor=1a1025"/>
-<img src="https://img.shields.io/badge/-{DB}-0d0d12?style=flat-square&logo={db}&logoColor=8B7FB8&labelColor=1a1025"/>
-<img src="https://img.shields.io/badge/-{Tool}-0d0d12?style=flat-square&logo={tool}&logoColor=8B7FB8&labelColor=1a1025"/>
+<img src="https://img.shields.io/badge/Go-0d0d12?style=flat-square&logo=go&logoColor=8B7FB8&labelColor=1a1025"/>
+<img src="https://img.shields.io/badge/Python-0d0d12?style=flat-square&logo=python&logoColor=8B7FB8&labelColor=1a1025"/>
+<img src="https://img.shields.io/badge/C++-0d0d12?style=flat-square&logo=c%2B%2B&logoColor=8B7FB8&labelColor=1a1025"/>
 </p>
 
 ---
 
-### 🕳 Проекты
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/strip-projects.png" width="100%" alt="/projects"/>
 
 |  |  |
 | --- | --- |
@@ -83,7 +81,7 @@
 
 ---
 
-### 📊 Статистика
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/strip-stats.png" width="100%" alt="/stats"/>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username={user}&show_icons=true&theme=dark&bg_color=0d0d12&title_color=8B7FB8&text_color=9aa0b4&icon_color=6b5b95&border_color=1a1025" />
@@ -141,8 +139,9 @@ jobs:
 
 ### Связь
 
-<a href="https://t.me/{username}"><img src="https://img.shields.io/badge/Telegram-0d0d12?style=flat-square&logo=telegram&logoColor=8B7FB8&labelColor=1a1025"/></a>
-<a href="mailto:{email}"><img src="https://img.shields.io/badge/Email-0d0d12?style=flat-square&logo=gmail&logoColor=8B7FB8&labelColor=1a1025"/></a>
+<a href="https://t.me/worltroll"><img src="https://img.shields.io/badge/Telegram-@worltroll-0d0d12?style=flat-square&logo=telegram&logoColor=8B7FB8&labelColor=1a1025"/></a>
+<a href="mailto:pakhomov.vs@yandex.ru"><img src="https://img.shields.io/badge/yandex-pakhomov.vs@yandex.ru-0d0d12?style=flat-square&logo=gmail&logoColor=8B7FB8&labelColor=1a1025"/></a>
+<a href="mailto:pakhomov.vse@gmail.com"><img src="https://img.shields.io/badge/gmail-pakhomov.vse@gmail.com-0d0d12?style=flat-square&logo=gmail&logoColor=8B7FB8&labelColor=1a1025"/></a>
 
 <br/><br/>
 
