@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/header.png" width="100%" alt="спальный район, сумерки"/>
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/header.png" width="100%" alt="спальный район, сумерки"/>
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/manifesto.png" width="100%" alt="панельки уходят в темноту"/>
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/manifesto.png" width="100%" alt="панельки уходят в темноту"/>
 
 </div>
 
@@ -53,7 +53,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/girl.png" width="240" alt=""/>
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/girl.png" width="240" alt=""/>
 
 <sub>— тишина на девятом этаже —</sub>
 
@@ -61,7 +61,7 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/strip-stack.png" width="100%" alt="/stack"/>
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/strip-stack.png" width="100%" alt="/stack"/>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Go-0d0d12?style=flat-square&logo=go&logoColor=8B7FB8&labelColor=1a1025"/>
@@ -71,7 +71,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/strip-projects.png" width="100%" alt="/projects"/>
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/strip-projects.png" width="100%" alt="/projects"/>
 
 |  |  |
 | --- | --- |
@@ -81,7 +81,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/assets/strip-stats.png" width="100%" alt="/stats"/>
+<img src="https://raw.githubusercontent.com/{user}/{user}/main/strip-stats.png" width="100%" alt="/stats"/>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username={user}&show_icons=true&theme=dark&bg_color=0d0d12&title_color=8B7FB8&text_color=9aa0b4&icon_color=6b5b95&border_color=1a1025" />
