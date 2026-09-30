@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/{user}/{user}/main/header.png" width="100%" alt="спальный район, сумерки"/>
+<img src="header.png" width="100%" alt="спальный район, сумерки"/>
 
 <br/>
 
