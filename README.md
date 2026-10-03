@@ -1,128 +1,161 @@
-<!-- ═══════════════════════════════════════════════════════════════
-ТЁМНЫЙ ПОСТПАНК · профиль
-Деплой:
-1) Публичный репозиторий с именем = твоему нику
-2) README.md — в корень, папку assets/ — тоже в корень
-3) Замени {user} на ник
-4) Файлы не грузятся? Проверь:
+<div align="center">
 
-- ветка реально называется main (если master — замени /main/ на /master/ в ссылках)
-- репозиторий называется ТОЧНО как ник, включая регистр
-- assets/ лежит в КОРНЕ репозитория, рядом с README.md
-- после пуша подожди 1–2 минуты (CDN-кэш raw.githubusercontent)
-5) Змея: см. инструкцию внизу
-═══════════════════════════════════════════════════════════════ -->
+<img src="assets/rain.gif" width="100%" alt="night rain banner">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=7FA6D4&center=true&vCenter=true&width=600&lines=%2F%2F+%D0%BA%D0%BE%D0%B4%D1%8E+%D0%BF%D0%BE%D0%B4+%D0%B7%D0%B2%D1%83%D0%BA+%D0%B4%D0%BE%D0%B6%D0%B4%D1%8F;%D0%BD%D0%BE%D1%87%D1%8C+%E2%80%A2+%D0%BF%D0%BE%D1%81%D1%82%D0%BF%D0%B0%D0%BD%D0%BA+%E2%80%A2+%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/mood-ночной_дождь-0d1117?style=for-the-badge&labelColor=0d1117&color=1a2634">
+<img src="https://img.shields.io/badge/genre-post--punk-0d1117?style=for-the-badge&labelColor=0d1117&color=1a2634">
+<img src="https://img.shields.io/badge/status-%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B8%D1%82%F0%9F%92%BE-0d1117?style=for-the-badge&labelColor=0d1117&color=1a2634">
+
+</div>
+
+<br>
+
+<img align="right" src="assets/side.png" width="38%" alt="girl on a bench, snow">
+
+```text
+$ whoami
+> разработчик, который пишет код, когда город спит
+
+$ cat /etc/motd
+> дождь по крышам, бас на всю катушку,
+> в терминале — только тёмная тема.
+
+$ uptime
+> с тех пор, как услышал Unknown Pleasures
+```
+
+<img src="assets/about.png" width="100%" alt="railway at dusk">
+
+<br>
+
+<img src="assets/header-music.png" width="100%" alt="музыка">
 
 <div align="center">
 
-<img src="header.png" width="100%" alt="спальный район, сумерки"/>
+`То, что крутится в наушниках, пока собирается продакшн`
 
-<br/>
+<br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1400&color=8B7FB8&center=true&vCenter=true&width=640&lines=%D1%82%D1%83%D1%82+%D1%82%D0%B2%D0%BE%D1%91+%D0%B8%D0%BC%D1%8F;%D0%BE%D0%BA%D0%BD%D0%B0+%D0%B3%D0%BE%D1%80%D1%8F%D1%82%2C+%D0%BD%D0%BE+%D0%BD%D0%B5+%D0%BC%D0%BD%D0%B5;code+%C2%B7+%D0%B4%D0%BE%D0%B6%D0%B4%D1%8C+%C2%B7+%D1%80%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82" alt="typing" />
-</a>
+<img src="https://img.shields.io/badge/Joy%20Division-Unknown%20Pleasures-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Bauhaus-In%20the%20Flat%20Field-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Siouxsie%20and%20the%20Banshees-Juju-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/The%20Cure-Disintegration-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Кино-Группа%20крови-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/АукцЫон-Дорога-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Зоопарк-Белая%20полоса-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Molchat%20Doma-Судно-111827?style=flat-square&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Плейлист%20для%20дебага-lofi%20%2B%20rain%20%2B%20post--punk-1f2937?style=flat-square&labelColor=111827">
 
-<br/>
+</div>
 
-<img src="manifesto.png" width="100%" alt="панельки уходят в темноту"/>
+<br>
+
+<img src="assets/header-projects.png" width="100%" alt="проекты">
+
+| Проект | Что это | Стек |
+|---|---|---|
+| 🌧️ **`night-rain-cli`** | Терминальная анимация дождя для консоли — для вайба во время кодинга | `Go` |
+| 🕸️ **`postpunk-tg-bot`** | Бот, который шлёт трек дня и прогноз дождя по утрам | `Python` `aiogram` |
+| 🏚️ **`panelka-api`** | Неофициальное API для справочника по панелькам серии | `Node.js` `Fastify` |
+| 📼 **`mixtape-archive`** | Архив моих микстейп: плейлисты + сканы кассет | `React` `Supabase` |
+| 🌃 **`3am-commit`** | Статистика: в какое время суток я коммичу чаще всего | `GitHub Actions` |
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=night-rain-cli&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634)](https://github.com/USERNAME/night-rain-cli)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=postpunk-tg-bot&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634)](https://github.com/USERNAME/postpunk-tg-bot)
+
+</div>
+
+<br>
+
+<img src="assets/header-stack.png" width="100%" alt="стек">
+
+<div align="center">
+
+**основное**
+
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=7fa6d4">
+
+**фронт и инфра**
+
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=7fa6d4">
+<img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=7fa6d4">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&text_color=c9d4e3&border_color=1a2634&hide_border=false" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&text_color=c9d4e3&border_color=1a2634" width="40%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=github-dark-blue&background=0D1117&border=1A2634&ring=7FA6D4&fire=4C6A92&currStreakLabel=7FA6D4" width="60%">
+
+</div>
+
+<br>
+
+<img src="assets/header-contacts.png" width="100%" alt="контакты">
+
+<div align="center">
+
+`если не отвечаю — значит, идёт дождь или деплой`
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=7fa6d4)](https://t.me/USERNAME)
+[![Email](https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=7fa6d4)](mailto:you@example.com)
+[![Last.fm](https://img.shields.io/badge/last.fm-0d1117?style=for-the-badge&logo=lastdotfm&logoColor=7fa6d4)](https://www.last.fm/user/USERNAME)
+[![Steam](https://img.shields.io/badge/steam-0d1117?style=for-the-badge&logo=steam&logoColor=7fa6d4)](https://steamcommunity.com/id/USERNAME)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=1a2634&style=flat-square">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="snake animation">
+
+*`снейк генерируется через GitHub Action — инструкция ниже`*
 
 </div>
 
 ---
-
-### 🌫 О себе
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-> *«здесь будет твой короткий манифест.
-> две-три строчки. без пафоса.
-> как письмо, которое никто не прочитает.»*
-
-&nbsp;
-
-- 🌃 **кто:** бэкенд-разработчик
-- 🕯 **стек:** Go · Python · C++
-- ✉️ **почта:** [pakhomov.vs@yandex.ru](mailto:pakhomov.vs@yandex.ru) · [pakhomov.vse@gmail.com](mailto:pakhomov.vse@gmail.com)
-- ✈️ **тг:** [@worltroll](https://t.me/worltroll)
-- 🌧 **сейчас:** {что изучаешь / над чем работаешь}
-- 📍 **место:** {город / часовой пояс}
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="girl.png" width="240" alt=""/>
-
-<sub>— тишина на девятом этаже —</sub>
-
-</td>
-</tr>
-</table>
-
-<img src="strip-stack.png" width="100%" alt="/stack"/>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Go-0d0d12?style=flat-square&logo=go&logoColor=8B7FB8&labelColor=1a1025"/>
-<img src="https://img.shields.io/badge/Python-0d0d12?style=flat-square&logo=python&logoColor=8B7FB8&labelColor=1a1025"/>
-<img src="https://img.shields.io/badge/C++-0d0d12?style=flat-square&logo=c%2B%2B&logoColor=8B7FB8&labelColor=1a1025"/>
-</p>
-
----
-
-<img src="strip-projects.png" width="100%" alt="/projects"/>
-
-|  |  |
-| --- | --- |
-| 🌑 [**{project-1}**](https://github.com/{user}/{repo-1}) | {одна строка — что это и зачем} |
-| 🌘 [**{project-2}**](https://github.com/{user}/{repo-2}) | {одна строка — что это и зачем} |
-| 🌗 [**{project-3}**](https://github.com/{user}/{repo-3}) | {одна строка — что это и зачем} |
-
----
-
-<img src="strip-stats.png" width="100%" alt="/stats"/>
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username={user}&show_icons=true&theme=dark&bg_color=0d0d12&title_color=8B7FB8&text_color=9aa0b4&icon_color=6b5b95&border_color=1a1025" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={user}&layout=compact&theme=dark&bg_color=0d0d12&title_color=8B7FB8&text_color=9aa0b4&border_color=1a1025" />
-<br/>
-<img src="https://streak-stats.demolab.com?user={user}&theme=dark&background=0d0d12&ring=8B7FB8&fire=6b5b95&currStreakLabel=8B7FB8&sideLabels=9aa0b4&dates=555c70&border=1a1025" />
-</div>
-
----
-
-### 🐍 Змей из коммитов
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{user}/{user}/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{user}/{user}/output/github-snake.svg" />
-<img alt="snake" src="https://raw.githubusercontent.com/{user}/{user}/output/github-snake-dark.svg" />
-</picture>
-</div>
 
 <details>
-<summary>⚙️ как включить змею (один раз)</summary>
+<summary>⚙️ Как установить профиль</summary>
 
-Создай в репозитории профиля файл `.github/workflows/snake.yml`:
+1. Создай репозиторий с именем **ровно как твой ник** (`username/username`), публичный, с README.
+2. Скопируй `README.md` из этого архива и папку `assets/` в репозиторий.
+3. Замени `USERNAME` на свой ник (Ctrl+H по всему файлу).
+4. Напиши проекты и контакты вместо заглушек.
+5. **Снейк:** добавь Action `.github/workflows/snake.yml`:
 
 ```yaml
 name: snake
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "0 3 * * *" }]
   workflow_dispatch:
 permissions: { contents: write }
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/snake.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -133,20 +166,9 @@ jobs:
 
 </details>
 
----
+<details>
+<summary>🖼️ Картинки</summary>
 
-<div align="center">
+Все изображения в `assets/` отредактированы под концепт: затемнение, холодный синий тон, виньетка, плёночное зерно. `rain.gif` — анимированный дождь поверх баннера, `rain-overlay.png` — прозрачный слой дождя, если захочешь наложить его на другую картинку.
 
-### Связь
-
-<a href="https://t.me/worltroll"><img src="https://img.shields.io/badge/Telegram-@worltroll-0d0d12?style=flat-square&logo=telegram&logoColor=8B7FB8&labelColor=1a1025"/></a>
-<a href="mailto:pakhomov.vs@yandex.ru"><img src="https://img.shields.io/badge/yandex-pakhomov.vs@yandex.ru-0d0d12?style=flat-square&logo=gmail&logoColor=8B7FB8&labelColor=1a1025"/></a>
-<a href="mailto:pakhomov.vse@gmail.com"><img src="https://img.shields.io/badge/gmail-pakhomov.vse@gmail.com-0d0d12?style=flat-square&logo=gmail&logoColor=8B7FB8&labelColor=1a1025"/></a>
-
-<br/><br/>
-
-<sub>«всё проходит. кроме репозиториев.»</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1025,50:0d0d12,100:0d0d12&height=100&section=footer" width="100%"/>
-
-</div>
+</details>
