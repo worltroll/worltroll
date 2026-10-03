@@ -94,10 +94,10 @@ $ ps aux | grep me
 [![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7fa6d4)](https://www.docker.com/)
 [![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=7fa6d4)](https://www.gnu.org/software/bash/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&text_color=c9d4e3&border_color=1a2634&hide_border=false" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&text_color=c9d4e3&border_color=1a2634" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=worltroll&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&text_color=c9d4e3&border_color=1a2634&hide_border=false" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worltroll&layout=compact&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&text_color=c9d4e3&border_color=1a2634" width="40%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=github-dark-blue&background=0D1117&border=1A2634&ring=7FA6D4&fire=4C6A92&currStreakLabel=7FA6D4" width="60%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=worltroll&theme=github-dark-blue&background=0D1117&border=1A2634&ring=7FA6D4&fire=4C6A92&currStreakLabel=7FA6D4" width="60%">
 
 </div>
 
@@ -117,7 +117,7 @@ $ ps aux | grep me
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=1a2634&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=worltroll&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=1a2634&style=flat-square">
 
 </div>
 
