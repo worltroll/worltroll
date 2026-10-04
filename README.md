@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="assets/side.png" width="38%" alt="girl on a bench, snow">
+<div align="center">
 
 ```text
 $ bio
@@ -22,7 +22,7 @@ $ stack
 > c++  python  go  |  linux  git  docker  bash
 ```
 
-<br clear="right">
+</div>
 
 <br>
 
@@ -110,7 +110,7 @@ $ stack
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=7fa6d4)](https://t.me/worltroll)
-[![Yandex Mail](https://img.shields.io/badge/pakhomov.vs%40yandex.ru-0d1117?style=for-the-badge&logo=yandex&logoColor=7fa6d4)](mailto:pakhomov.vs@yandex.ru)
+[![Yandex Mail](assets/badge-yandexmail.png)](mailto:pakhomov.vs@yandex.ru)
 [![Gmail](https://img.shields.io/badge/pakhomov.vse%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=7fa6d4)](mailto:pakhomov.vse@gmail.com)
 
 <br>
