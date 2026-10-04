@@ -110,7 +110,7 @@ $ stack
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=7fa6d4)](https://t.me/worltroll)
-[![Yandex Mail](assets/badge-yandexmail.png)](mailto:pakhomov.vs@yandex.ru)
+[![Yandex Mail](https://img.shields.io/badge/pakhomov.vs%40yandex.ru-0d1117?style=for-the-badge&logo=yandex&logoColor=7fa6d4)](mailto:pakhomov.vs@yandex.ru)
 [![Gmail](https://img.shields.io/badge/pakhomov.vse%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=7fa6d4)](mailto:pakhomov.vse@gmail.com)
 
 <br>
