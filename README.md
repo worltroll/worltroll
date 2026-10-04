@@ -40,16 +40,16 @@ $ stack
 
 <br>
 
-[![Лабарум](assets/btn-artist-labarum.png)](https://music.yandex.ru/artist/21264536)
-[![Буйноголовушка](assets/btn-artist-buinogolovushka.png)](https://music.yandex.ru/artist/15735215)
-[![Rammstein](assets/btn-artist-rammstein.png)](https://music.yandex.ru/artist/13002)
-[![Batushka](assets/btn-artist-batushka.png)](https://music.yandex.ru/artist/6314173)
-[![Gospod](assets/btn-artist-gospod.png)](https://music.yandex.ru/search?text=Gospod)
-[![Black Sabbath](assets/btn-artist-blacksabbath.png)](https://music.yandex.ru/search?text=Black%20Sabbath)
-[![Ka$tro](assets/btn-artist-kastro.png)](https://music.yandex.ru/search?text=Ka%24tro)
-[![Чернобыль](assets/btn-artist-chernobyl.png)](https://music.yandex.ru/artist/20001064)
-[![Schwarzer Engel](assets/btn-artist-schwarzerengel.png)](https://music.yandex.ru/artist/556109)
-[![Гражданская Оборона](assets/btn-artist-grob.png)](https://music.yandex.ru/artist/42528)
+[![Лабарум](https://img.shields.io/badge/%D0%9B%D0%B0%D0%B1%D0%B0%D1%80%D1%83%D0%BC-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/21264536)
+[![Буйноголовушка](https://img.shields.io/badge/%D0%91%D1%83%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%83%D1%88%D0%BA%D0%B0-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/15735215)
+[![Rammstein](https://img.shields.io/badge/Rammstein-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/13002)
+[![Batushka](https://img.shields.io/badge/Batushka-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/6314173)
+[![Gospod](https://img.shields.io/badge/Gospod-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/search?text=Gospod)
+[![Black Sabbath](https://img.shields.io/badge/Black%20Sabbath-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/search?text=Black%20Sabbath)
+[![Ka$tro](https://img.shields.io/badge/Ka%24tro-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/search?text=Ka%24tro)
+[![Чернобыль](https://img.shields.io/badge/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/20001064)
+[![Schwarzer Engel](https://img.shields.io/badge/Schwarzer%20Engel-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/556109)
+[![Гражданская Оборона](https://img.shields.io/badge/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/42528)
 
 </div>
 
@@ -63,7 +63,7 @@ $ stack
 |---|---|---|
 | **`Ypsilon`** | Музыкальный плеер | `C++` |
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=worltroll&repo=ypsilon&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634&border_radius=16)](https://github.com/worltroll/night-rain-cli)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=worltroll&repo=ypsilon&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634&border_radius=16)](https://github.com/worltroll/ypsilon)
 
 </div>
 
@@ -75,22 +75,23 @@ $ stack
 
 **основное — backend**
 
-[![C++](assets/btn-stack-cpp.png)](https://isocpp.org/)
-[![Python](assets/btn-stack-python.png)](https://www.python.org/)
-[![Go](assets/btn-stack-go.png)](https://go.dev/)
+[![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=7fa6d4)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7fa6d4)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=7fa6d4)](https://go.dev/)
 
 **иногда — фронт по мелочи**
 
-[![JavaScript](assets/btn-stack-js.png)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-[![TypeScript](assets/btn-stack-ts.png)](https://www.typescriptlang.org/)
-[![React](assets/btn-stack-react.png)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=7fa6d4)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=7fa6d4)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=7fa6d4)](https://react.dev/)
 
 **инструменты**
 
-[![Linux](assets/btn-stack-linux.png)](https://www.kernel.org/)
-[![Git](assets/btn-stack-git.png)](https://git-scm.com/)
-[![Docker](assets/btn-stack-docker.png)](https://www.docker.com/)
-[![Bash](assets/btn-stack-bash.png)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=7fa6d4)](https://www.kernel.org/)
+[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=7fa6d4)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7fa6d4)](https://www.docker.com/)
+[![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=7fa6d4)](https://www.gnu.org/software/bash/)
+[![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logoColor=7fa6d4)](https://en.wikipedia.org/wiki/SQL)
 
 <img src="https://github-readme-stats.vercel.app/api?username=worltroll&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&text_color=c9d4e3&border_color=1a2634&border_radius=16" width="49%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worltroll&layout=compact&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&text_color=c9d4e3&border_color=1a2634&border_radius=16" width="40%">
@@ -108,9 +109,9 @@ $ stack
 
 <br>
 
-[![Telegram](assets/btn-contact-tg.png)](https://t.me/worltroll)
-[![Yandex Mail](assets/btn-contact-ya.png)](mailto:pakhomov.vs@yandex.ru)
-[![Gmail](assets/btn-contact-gmail.png)](mailto:pakhomov.vse@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=7fa6d4)](https://t.me/worltroll)
+[![Yandex Mail](https://img.shields.io/badge/pakhomov.vs%40yandex.ru-0d1117?style=for-the-badge&logo=yandex&logoColor=7fa6d4)](mailto:pakhomov.vs@yandex.ru)
+[![Gmail](https://img.shields.io/badge/pakhomov.vse%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=7fa6d4)](mailto:pakhomov.vse@gmail.com)
 
 <br>
 
