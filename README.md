@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=7FA6D4&center=true&vCenter=true&width=600&lines=%2F%2F+backend+%D0%BF%D0%BE%D0%B4+%D0%B7%D0%B2%D1%83%D0%BA+%D0%B4%D0%BE%D0%B6%D0%B4%D1%8F;%D0%BD%D0%BE%D1%87%D1%8C+%E2%80%A2+%D1%80%D0%BE%D0%BA+%E2%80%A2+%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/mood-сервер_не_спит-0d1117?style=for-the-badge&labelColor=0d1117&color=1a2634">
 <img src="https://img.shields.io/badge/genre-rock-0d1117?style=for-the-badge&labelColor=0d1117&color=1a2634">
 <img src="https://img.shields.io/badge/role-backend-0d1117?style=for-the-badge&labelColor=0d1117&color=1a2634">
 
@@ -15,14 +14,11 @@
 <img align="right" src="assets/side.png" width="38%" alt="girl on a bench, snow">
 
 ```text
-$ whoami
-> backend-разработчик, пишет код, когда город спит
+$ bio
+> backend-разработчик из Москвы
+> 15 y. o.
 
-$ cat /etc/motd
-> дождь по крышам, сервер в проде, гитара в наушниках.
-> фронт трогаю редко и только по мелочи.
-
-$ ps aux | grep me
+$ stack
 > c++  python  go  |  linux  git  docker  bash
 ```
 
@@ -65,14 +61,9 @@ $ ps aux | grep me
 
 | Проект | Что это | Стек |
 |---|---|---|
-| 🌧️ **`night-rain-cli`** | Терминальная анимация дождя — для вайба во время кодинга | `C++` |
-| ⚙️ **`panelka-api`** | REST/gRPC-сервис: данные по панелькам, метрики, трейсинг | `Go` `PostgreSQL` |
-| 🐍 **`mixtape-daemon`** | Демон, который крутит плейлисты и следит за аптаймом | `Python` `systemd` |
-| 📦 **`deploy-for-the-dead`** | Набор bash-скриптов деплоя: бэкапы, роллбэк, алёрты | `Bash` `Docker` |
-| 🔧 **`cpp-toys`** | Песочница на C++: многопоточка, сети, свои контейнеры | `C++20` `CMake` |
+| **`Ypsilon`** | Музыкальный плеер | `C++` |
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=worltroll&repo=night-rain-cli&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634&border_radius=16)](https://github.com/worltroll/night-rain-cli)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=worltroll&repo=panelka-api&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634&border_radius=16)](https://github.com/worltroll/panelka-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=worltroll&repo=ypsilon&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634&border_radius=16)](https://github.com/worltroll/night-rain-cli)
 
 </div>
 
@@ -114,7 +105,6 @@ $ ps aux | grep me
 
 <div align="center">
 
-`если не отвечаю — значит, идёт дождь или деплой`
 
 <br>
 
