@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="assets/side.png" width="38%" alt="girl on a bench, snow">
+<div align="center">
 
 ```text
 $ bio
@@ -22,7 +22,7 @@ $ stack
 > c++  python  go  |  linux  git  docker  bash
 ```
 
-<br clear="right">
+</div>
 
 <br>
 
@@ -41,7 +41,7 @@ $ stack
 <br>
 
 [![Лабарум](https://img.shields.io/badge/%D0%9B%D0%B0%D0%B1%D0%B0%D1%80%D1%83%D0%BC-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/21264536)
-[![Буйноголовушка](https://img.shields.io/badge/%D0%91%D1%83%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%83%D1%88%D0%BA%D0%B0-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/15735215)
+[![BUINOGOLOVUSHKA](https://img.shields.io/badge/%D0%91%D1%83%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%83%D1%88%D0%BA%D0%B0-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/15735215)
 [![Rammstein](https://img.shields.io/badge/Rammstein-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/13002)
 [![Batushka](https://img.shields.io/badge/Batushka-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/artist/6314173)
 [![Gospod](https://img.shields.io/badge/Gospod-111827?style=flat-square&labelColor=0d1117)](https://music.yandex.ru/search?text=Gospod)
@@ -61,9 +61,9 @@ $ stack
 
 | Проект | Что это | Стек |
 |---|---|---|
-| **`Ypsilon`** | Музыкальный плеер | `C++` |
+| **`Glagoli`** | Музыкальный плеер | `C++` |
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=worltroll&repo=ypsilon&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634&border_radius=16)](https://github.com/worltroll/ypsilon)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=worltroll&repo=glagoli&theme=github_dark&bg_color=0d1117&title_color=7fa6d4&icon_color=4c6a92&border_color=1a2634&border_radius=16)](https://github.com/worltroll/ypsilon)
 
 </div>
 
